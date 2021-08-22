@@ -1,0 +1,9 @@
+D:\Drive D\workspace\Microsoft Visual Studio 2019 Enterprise\BookStoreSystem\BookStoreSystem\API\bin\Debug\API.dll
+D:\Drive D\workspace\Microsoft Visual Studio 2019 Enterprise\BookStoreSystem\BookStoreSystem\API\bin\Debug\API.pdb
+D:\Drive D\workspace\Microsoft Visual Studio 2019 Enterprise\BookStoreSystem\BookStoreSystem\API\bin\Debug\Newtonsoft.Json.dll
+D:\Drive D\workspace\Microsoft Visual Studio 2019 Enterprise\BookStoreSystem\BookStoreSystem\API\bin\Debug\Newtonsoft.Json.xml
+D:\Drive D\workspace\Microsoft Visual Studio 2019 Enterprise\BookStoreSystem\BookStoreSystem\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\Drive D\workspace\Microsoft Visual Studio 2019 Enterprise\BookStoreSystem\BookStoreSystem\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\Drive D\workspace\Microsoft Visual Studio 2019 Enterprise\BookStoreSystem\BookStoreSystem\API\obj\Debug\API.csproj.CopyComplete
+D:\Drive D\workspace\Microsoft Visual Studio 2019 Enterprise\BookStoreSystem\BookStoreSystem\API\obj\Debug\API.dll
+D:\Drive D\workspace\Microsoft Visual Studio 2019 Enterprise\BookStoreSystem\BookStoreSystem\API\obj\Debug\API.pdb
