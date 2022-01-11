@@ -1,9 +1,3 @@
-﻿/* ************************************************************
- * For students to work on assignments and project.
- * Permission required material. Contact: xyuan@uwindsor.ca 
-Added by Kamonashish
- * ************************************************************/
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
